@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: TVE INTERNACIONAL
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1698
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: LA 1
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1697
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: LA 2
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1696
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: ANTENA 3
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1695
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: CUATRO 
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1694
+
+#EXTINF:-1 group-title="RUBI" tvg-logo="" group-title="Crystal",ES: TELECINCO
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1693
