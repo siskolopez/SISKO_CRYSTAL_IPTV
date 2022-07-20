@@ -1,3 +1,34 @@
 #EXTM3U
 
-I0VYVElORjotMSBncm91cC10aXRsZT0iIiB0dmctbG9nbz0iIiBncm91cC10aXRsZT0iQ3J5c3RhbCIsRVM6IFRWRSBJTlRFUk5BQ0lPTkFMCmh0dHA6Ly9saW5lLmNyeXN0YWwtb3R0LmNvbTo4MC9YR0FHTFNJRFZYL3BHRG9tc3ViSUYvMTY5OAoKI0VYVElORjotMSBncm91cC10aXRsZT0iIiB0dmctbG9nbz0iIiBncm91cC10aXRsZT0iQ3J5c3RhbCIsRVM6IExBIDEKaHR0cDovL2xpbmUuY3J5c3RhbC1vdHQuY29tOjgwL1hHQUdMU0lEVlgvcEdEb21zdWJJRi8xNjk3CgojRVhUSU5GOi0xIGdyb3VwLXRpdGxlPSIiIHR2Zy1sb2dvPSIiIGdyb3VwLXRpdGxlPSJDcnlzdGFsIixFUzogTEEgMgpodHRwOi8vbGluZS5jcnlzdGFsLW90dC5jb206ODAvWEdBR0xTSURWWC9wR0RvbXN1YklGLzE2OTYKCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IiIgdHZnLWxvZ289IiIgZ3JvdXAtdGl0bGU9IkNyeXN0YWwiLEVTOiBBTlRFTkEgMwpodHRwOi8vbGluZS5jcnlzdGFsLW90dC5jb206ODAvWEdBR0xTSURWWC9wR0RvbXN1YklGLzE2OTUKCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IiIgdHZnLWxvZ289IiIgZ3JvdXAtdGl0bGU9IkNyeXN0YWwiLEVTOiBDVUFUUk8gCmh0dHA6Ly9saW5lLmNyeXN0YWwtb3R0LmNvbTo4MC9YR0FHTFNJRFZYL3BHRG9tc3ViSUYvMTY5NAoKI0VYVElORjotMSBncm91cC10aXRsZT0iIiB0dmctbG9nbz0iIiBncm91cC10aXRsZT0iQ3J5c3RhbCIsRVM6IFRFTEVDSU5DTwpodHRwOi8vbGluZS5jcnlzdGFsLW90dC5jb206ODAvWEdBR0xTSURWWC9wR0RvbXN1YklGLzE2OTMKCiNFWFRJTkY6LTEgZ3JvdXAtdGl0bGU9IiIgdHZnLWxvZ289IiIgZ3JvdXAtdGl0bGU9IkNyeXN0YWwiLEVTOiBMQSBTRVhUQSBIRApodHRwOi8vbGluZS5jcnlzdGFsLW90dC5jb206ODAvWEdBR0xTSURWWC9wR0RvbXN1YklGLzE2OTIKCg
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: TVE INTERNACIONAL
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1698
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: LA 1
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1697
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: LA 2
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1696
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: ANTENA 3
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1695
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: CUATRO 
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1694
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: TELECINCO
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1693
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: LA SEXTA HD
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1692
+ 
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: CANAL SUR
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1691
+ 
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: #0
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1683
+  
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: ENERGY
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1689
+
+#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: DIVINITY
+http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1688
