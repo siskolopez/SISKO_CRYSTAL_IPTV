@@ -1,6 +1,748 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: TVE INTERNACIONAL
+#EXTINF:-#EXTM3U
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://dl.dropbox.com/s/r2wakcwrypafb5a/icon.png?dl=0" group-title="FOXX-TV",MAC´S GROUP
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55418
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la1.png" group-title="ES| ESPAÑA",ES| LA 1 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55419.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la1.png" group-title="ES| ESPAÑA",ES| LA 1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55420.ts
+
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la2.png" group-title="ES| ESPAÑA",ES| LA 2 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55421.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/la2.png" group-title="ES| ESPAÑA",ES| LA 2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55422.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/antena3hd.png" group-title="ES| ESPAÑA",ES| ANTENA 3 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55423.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/antena3.png" group-title="ES| ESPAÑA",ES| ANTENA 3
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55424.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cuatrohd.png" group-title="ES| ESPAÑA",ES| CUATRO HD
+h
+ttp://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55425.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cuatro.png" group-title="ES| ESPAÑA",ES| CUATRO
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55426.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/telecincohd.png" group-title="ES| ESPAÑA",ES| TELECINCO HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55427.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/telecinco.png" group-title="ES| ESPAÑA",ES| TELECINCO
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55428
+.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/lasextahd.png" group-title="ES| ESPAÑA",ES| LA SEXTA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55429.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/lasexta.png" group-title="ES| ESPAÑA",ES| LA SEXTA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55430.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/atreseries.png" group-title="ES| ESPAÑA",ES| ATRESSERIES HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55431.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/bom.png" group-title="ES| ESPAÑA",ES| BOM
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55432.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dkiss.png" group-title="ES| ESPAÑA",ES| DKISS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55435.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dmax-hilerethip.png" group-title="ES| ESPAÑA",ES| DMAX
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55436.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nova.png" group-title="ES| ESPAÑA",ES| NOVA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55437.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nova.png" group-title="ES| ESPAÑA",ES| NOVA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55438.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/ten.png" group-title="ES| ESPAÑA",ES| TEN
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55439.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/24horas.png" group-title="ES| ESPAÑA",ES| 24 HORAS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55442.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/foxnews.png" group-title="ES| ESPAÑA",ES| FOX NEWS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55443.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/7rm.png" group-title="ES| ESPAÑA",ES| 7RM HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55444.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/7rm.png" group-title="ES| ESPAÑA",ES| 7RM
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82139.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canalsurandalucia.png" group-title="ES| ESPAÑA",ES| CANAL SUR
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55448.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/populartv.png" group-title="ES| ESPAÑA",ES| POPULAR TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55452.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tvm.png" group-title="ES| ESPAÑA",ES| TVM
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55453.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| ENTRETENIMIENTO",=ES= ENTRETENIMIENTO =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55454.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/%230hd.png" group-title="ES| ENTRETENIMIENTO",ES| #0
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55456.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/amchd.png" group-title="ES| ENTRETENIMIENTO",ES| AMC HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55457.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/amc.png" group-title="ES| ENTRETENIMIENTO",ES| AMC
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55458.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/axnwhitehd.png" group-title="ES| ENTRETENIMIENTO",ES| AXN WHITE HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55459.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/axnwhite.png" group-title="ES| ENTRETENIMIENTO",ES| AXN WHITE
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55460.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tvgalicia.png" group-title="ES| ENTRETENIMIENTO",ES| TV GALICIA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82267.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dreamworks.png" group-title="ES| NIÑOS",ES| DREAMWORKS HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82268.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/axnhd.png" group-title="ES| ENTRETENIMIENTO",ES| AXN HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55461.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/axn.png" group-title="ES| ENTRETENIMIENTO",ES| AXN
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55462.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/bemad.png" group-title="ES| ENTRETENIMIENTO",ES| BEMAD TV HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55463.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/bemad.png" group-title="ES| ENTRETENIMIENTO",ES| BEMAD TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55464.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/blaze.png" group-title="ES| ENTRETENIMIENTO",ES| BLAZE
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55465.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/calle13hd.png" group-title="ES| ENTRETENIMIENTO",ES| CALLE 13 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55466.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/calle13.png" group-title="ES| ENTRETENIMIENTO",ES| CALLE 13
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55467.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/comedycentral.png" group-title="ES| ENTRETENIMIENTO",ES| COMEDY CENTRAL HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55468.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/comedycentral.png" group-title="ES| ENTRETENIMIENTO",ES| COMEDY CENTRAL
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55469.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cosmo.png" group-title="ES| ENTRETENIMIENTO",ES| COSMO HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55470.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cosmo.png" group-title="ES| ENTRETENIMIENTO",ES| COSMO
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55471.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/divinity.png" group-title="ES| ENTRETENIMIENTO",ES| DIVINITY
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55472.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/energy.png" group-title="ES| ENTRETENIMIENTO",ES| ENERGY
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55473.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/fdf.png" group-title="ES| ENTRETENIMIENTO",ES| FDF
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55474.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/fox.png" group-title="ES| ENTRETENIMIENTO",ES| FOX HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55475.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/fox.png" group-title="ES| ENTRETENIMIENTO",ES| FOX
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55476.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/foxlifehd.png" group-title="ES| ENTRETENIMIENTO",ES| FOX LIFE HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55477.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/foxlifehd.png" group-title="ES| ENTRETENIMIENTO",ES| FOX LIFE
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55478.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/hollywood.png" group-title="ES| ENTRETENIMIENTO",ES| HOLLYWOOD HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55479.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/hollywood.png" group-title="ES| ENTRETENIMIENTO",ES| HOLLYWOOD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55480.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/mega.png" group-title="ES| ENTRETENIMIENTO",ES| MEGA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55481.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DEPORTES",ES| DAZN 1 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55482.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn1.png" group-title="ES| DEPORTES",ES| DAZN 1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55483.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarseries.png" group-title="ES| ENTRETENIMIENTO",ES| M. SERIES HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55484.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarestrenos.png" group-title="ES| CINE",ES| M. ESTRENOS 2 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82271.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarestrenos.png" group-title="ES| CINE",ES| M. ESTRENOS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82272.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarseries.png" group-title="ES| ENTRETENIMIENTO",ES| M. SERIES
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82273.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/xtrm.png" group-title="ES| ENTRETENIMIENTO",ES| XTRM HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82274.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarseries.png" group-title="ES| ENTRETENIMIENTO",ES| M. SERIES
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55485.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png" group-title="ES| DEPORTES",ES| DAZN 2 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82270.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/paramountchannel.png" group-title="ES| ENTRETENIMIENTO",ES| PARAMOUNT
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55487.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/syfyhd.png" group-title="ES| ENTRETENIMIENTO",ES| SYFY HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55488.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/syfy.png" group-title="ES| ENTRETENIMIENTO",ES| SYFY
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55489.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/sundancetv.png" group-title="ES| ENTRETENIMIENTO",ES| SUNDANCE TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55491.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tnthd.png" group-title="ES| ENTRETENIMIENTO",ES| TNT HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55492.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/JAQUETTE/PICON-LOGO/PICON-ALPHA/picon-espagne/tnthd.png" group-title="ES| ENTRETENIMIENTO",ES| TNT
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55493.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| CINE",=ES= CINE =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55495.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistaraccion.png" group-title="ES| CINE",ES| M. ACCIÓN HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55496.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistaraccion.png" group-title="ES| CINE",ES| M. ACCIÓN
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55497.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarcinedocandroll.png" group-title="ES| CINE",ES| M. CINE DOC&ROLL
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55499.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarcomedia.png" group-title="ES| CINE",ES| M. COMEDIA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55500.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarcomedia.png" group-title="ES| CINE",ES| M. COMEDIA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55501.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardrama.png" group-title="ES| CINE",ES| M. DRAMA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55502.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardrama.png" group-title="ES| CINE",ES| M. DRAMA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55503.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarestrenos.png" group-title="ES| CINE",ES| M. ESTRENOSHD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55504.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarestrenos.png" group-title="ES| CINE",ES| M. ESTRENOS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55505.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarcineespagnol.png" group-title="ES| CINE",ES| M. CINE ESPAÑOL
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55506.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tcmhd.png" group-title="ES| CINE",ES| TCM HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55508.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tcm.png" group-title="ES| CINE",ES| TCM
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55509.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104481.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104482.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 3
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104483.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 4
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104486.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 5
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104484.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 6
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104485.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 7
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104487.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 8
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104488.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 9
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104489.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/taquilla.png" group-title="ES| CINE",ES| Alquiler CINE TAQUILA 10
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/104490.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| NIÑOS",=ES= NIÑOS =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55510.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/babytv.png" group-title="ES| NIÑOS",ES| BABY TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55511.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/boing.png" group-title="ES| NIÑOS",ES| BOING
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55512.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canalpanda.png" group-title="ES| NIÑOS",ES| CANAL PANDA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55513.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tveclanhd.png" group-title="ES| NIÑOS",ES| CLAN HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55514.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/tveclan.png" group-title="ES| NIÑOS",ES| CLAN
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55515.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/disneychannelhd.png" group-title="ES| NIÑOS",ES| DISNEY CH HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55516.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/disneychannel.png" group-title="ES| NIÑOS",ES| DISNEY CH
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55517.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/disneyjunior.png" group-title="ES| NIÑOS",ES| DISNEY JR
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55518.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/neox.png" group-title="ES| NIÑOS",ES| NEOX
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55522.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nikelodeonhd.png" group-title="ES| NIÑOS",ES| NICKELODEON HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55523.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nickelodeon.png" group-title="ES| NIÑOS",ES| NICKELODEON
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55524.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nickjr.png" group-title="ES| NIÑOS",ES| NICK JR
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55525.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| DEPORTES",=ES= DEPORTES =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55526.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/vamos.png" group-title="ES| DEPORTES",ES| #VAMOS HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55527.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/vamos.png" group-title="ES| DEPORTES",ES| #VAMOS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55528.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55530.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LaLiga
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55531.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEONES
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55533.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport1.png" group-title="ES| DEPORTES",ES| EUROSPORT 1 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82288.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport1.png" group-title="ES| DEPORTES",ES| EUROSPORT 1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55534.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/eurosport2.png" group-title="ES| DEPORTES",ES| EUROSPORT 2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55535.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/torostv.png" group-title="ES| DEPORTES",ES| TOROS HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55538.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/torostv.png" group-title="ES| DEPORTES",ES| TOROS
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55539.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/teledeporte.png" group-title="ES| DEPORTES",ES| TDP HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55540.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/teledeporte.png" group-title="ES| DEPORTES",ES| TDP
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55541.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/barcatv.png" group-title="ES| DEPORTES",ES| BARCA TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55542.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/realmadridtv.png" group-title="ES| DEPORTES",ES| REAL MADRID TV HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55543.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/realmadridtv.png" group-title="ES| DEPORTES",ES| REAL MADRID TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55544.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55545.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistargolf.png" group-title="ES| DEPORTES",ES| M. GOLF HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55547.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistargolf.png" group-title="ES| DEPORTES",ES| M. GOLF HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82286.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistargolf.png" group-title="ES| DEPORTES",ES| M. GOLF
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55548.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/teledeporte.png" group-title="ES| DEPORTES",ES| TELEDEPORTE
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/82289.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/gol.png" group-title="ES| DEPORTES",ES| GOL
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55550.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardaznf1.png" group-title="ES| DEPORTES",ES| DAZN F1 FHD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55551.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardaznf1.png" group-title="ES| DEPORTES",ES| DAZN F1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55552.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| DEPORTES",=ES= DEPORTES (SOLO EVENTOS) =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55553.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn2.png" group-title="ES| DEPORTES",ES| DAZN 2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55557.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn3.png" group-title="ES| DEPORTES",ES| DAZN 3 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55558.ts
+
+#EXTINF:-1 group-title="FOXX" group-title="ES| DEPORTES",ES| LIGA TV BAR HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55559.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardaznf1.png" group-title="ES| DEPORTES",ES| DAZN F1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55560.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png" group-title="ES| DEPORTES",ES| DAZN 4 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55561.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/dazn4.png" group-title="ES| DEPORTES",ES| DAZN 4
+h
+ttp://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55562.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardaznf1.png" group-title="ES| DEPORTES",ES| DAZN F1 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55563.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 1 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55564.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55565.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 2 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55566.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55567.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 3 HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55568.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 3
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55569.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 4
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55570.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 5
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55571.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 6
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55572.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 7
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55573.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 8
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55574.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 9
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55575.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarlaligatv.png" group-title="ES| DEPORTES",ES| M. LaLiga 10
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55576.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55577.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55578.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON3
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55579.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON4
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55580.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON5
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55581.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON6
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55582.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON7
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55583.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistarligadecampeones.png" group-title="ES| DEPORTES",ES| M. LCAMPEON8
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55584.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| MULTIDEPORTE
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55585.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES1
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55586.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES2
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55587.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES3
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55588.ts
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES4
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55589.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES5
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55590.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES6
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55591.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/movistardeportes.png" group-title="ES| DEPORTES",ES| M. DEPORTES7
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55592.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/entrepicon.png" group-title="ES| CULTURA",=ES= CULTURA =ES=
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55593.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canalcocina.png" group-title="ES| CULTURA",ES| CANAL COCINA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55595.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/odisseia.png" group-title="ES| CULTURA",ES| CANAL ODISEA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55597.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cazaypesca.png" group-title="ES| CULTURA",ES| CAZA Y PESCA HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55599.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/cazaypesca.png" group-title="ES| CULTURA",ES| CAZA Y PESCA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55600.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/crimeandinvestigation.png" group-title="ES| CULTURA",ES| CRIMEN + INVESTIGACIÓN
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55602.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/canaldecasa.png" group-title="ES| CULTURA",ES| CANAL DECASA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55604.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/discoverychannelhd.png" group-title="ES| CULTURA",ES| DISCOVERY
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55606.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/historia.png" group-title="ES| CULTURA",ES| HISTORIA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55609.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/iberalia.png" group-title="ES| CULTURA",ES| IBERALIA TV
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55610.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/natgeowildhd.png" group-title="ES| CULTURA",ES| NATIONAL GEOGRAPHIC WILD HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55611.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/natgeowild.png" group-title="ES| CULTURA",ES| NATIONAL GEOGRAPHIC WILD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55612.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nationalgeographichd.png" group-title="ES| CULTURA",ES| NATIONAL GEOGRAPHIC HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55613.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/nationalgeographic.png" group-title="ES| CULTURA",ES| NATIONAL GEOGRAPHIC
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55614.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/viajarhd.png" group-title="ES| CULTURA",ES| VIAJAR HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55615.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/viajar.png" group-title="ES| CULTURA",ES| VIAJAR
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55616.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/classica.png" group-title="ES| MÚSICA",ES| CLASSICA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55622.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/mezzo.png" group-title="ES| MÚSICA",ES| MEZZO
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55624.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/mezzolivehd.png" group-title="ES| MÚSICA",ES| MEZZO LIVE HD
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55623.ts
+
+#EXTINF:-1 group-title="FOXX" tvg-logo="http://covers.dragons-ott.com/PICON/ESPAGNE/mtv.png" group-title="ES| MÚSICA",ES| MTV ESPANA
+
+http://foxx-tv.com:9600/live/1YZBN0pGhh5XYvd/pCC2yZMu68yoE4H/55618.ts1 group-title="" tvg-logo="" group-title="Crystal",ES: TVE INTERNACIONAL
 http://line.crystal-ott.com:80/XGAGLSIDVX/pGDomsubIF/1698
 
 #EXTINF:-1 group-title="" tvg-logo="" group-title="Crystal",ES: LA 1
